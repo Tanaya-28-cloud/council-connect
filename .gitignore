@@ -1,0 +1,28 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Firebase configuration
+google-services.json
+
+# Kotlin
+*.kotlin_module
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+.externalNativeBuild/
+.cxx/
+
+# Android Studio captures
+captures/
